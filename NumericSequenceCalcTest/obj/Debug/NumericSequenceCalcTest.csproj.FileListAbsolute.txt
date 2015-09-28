@@ -1,0 +1,7 @@
+c:\documents and settings\shashank\my documents\visual studio 2010\Projects\NumericSequenceCalc\NumericSequenceCalcTest\bin\Debug\NumericSequenceCalcTest.dll
+c:\documents and settings\shashank\my documents\visual studio 2010\Projects\NumericSequenceCalc\NumericSequenceCalcTest\bin\Debug\NumericSequenceCalcTest.pdb
+c:\documents and settings\shashank\my documents\visual studio 2010\Projects\NumericSequenceCalc\NumericSequenceCalcTest\bin\Debug\NumericSequenceCalc.dll
+c:\documents and settings\shashank\my documents\visual studio 2010\Projects\NumericSequenceCalc\NumericSequenceCalcTest\bin\Debug\NumericSequenceCalc.pdb
+c:\documents and settings\shashank\my documents\visual studio 2010\Projects\NumericSequenceCalc\NumericSequenceCalcTest\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\shashank\my documents\visual studio 2010\Projects\NumericSequenceCalc\NumericSequenceCalcTest\obj\Debug\NumericSequenceCalcTest.dll
+c:\documents and settings\shashank\my documents\visual studio 2010\Projects\NumericSequenceCalc\NumericSequenceCalcTest\obj\Debug\NumericSequenceCalcTest.pdb

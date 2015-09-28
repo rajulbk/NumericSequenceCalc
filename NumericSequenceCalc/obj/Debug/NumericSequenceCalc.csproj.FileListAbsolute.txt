@@ -1,0 +1,5 @@
+c:\documents and settings\shashank\my documents\visual studio 2010\Projects\NumericSequenceCalc\NumericSequenceCalc\bin\NumericSequenceCalc.dll
+c:\documents and settings\shashank\my documents\visual studio 2010\Projects\NumericSequenceCalc\NumericSequenceCalc\bin\NumericSequenceCalc.pdb
+c:\documents and settings\shashank\my documents\visual studio 2010\Projects\NumericSequenceCalc\NumericSequenceCalc\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\shashank\my documents\visual studio 2010\Projects\NumericSequenceCalc\NumericSequenceCalc\obj\Debug\NumericSequenceCalc.dll
+c:\documents and settings\shashank\my documents\visual studio 2010\Projects\NumericSequenceCalc\NumericSequenceCalc\obj\Debug\NumericSequenceCalc.pdb
